@@ -1,0 +1,26 @@
+{
+  "name": "ToDo-CRUD-App",
+  "version": "1.0.0",
+  "description": "### This is a small demo project for creating and using REST API using JavaScript.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markobojic/ToDo-CRUD-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markobojic/ToDo-CRUD-app/issues"
+  },
+  "homepage": "https://github.com/markobojic/ToDo-CRUD-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "path": "^0.12.7",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.13"
+  }
+}
